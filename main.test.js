@@ -75,11 +75,3 @@ test('for compHex FFFFFF the expected 14 colors', async () => {
   });
 });
 
-// test('for name periwinkle returns Periwinkle', async () => {
-//   const res = await fetchColors({
-//     name: 'Almond'
-//   });
-
-//   const expected = []
-// });
-
