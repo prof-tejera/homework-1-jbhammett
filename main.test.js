@@ -74,3 +74,12 @@ test('for compHex FFFFFF the expected 14 colors', async () => {
     expect(received[i]).toBe(e);
   });
 });
+
+// test('for name periwinkle returns Periwinkle', async () => {
+//   const res = await fetchColors({
+//     name: 'Almond'
+//   });
+
+//   const expected = []
+// });
+
